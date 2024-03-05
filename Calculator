@@ -2,3 +2,4 @@ cout<<"Name"<<"Shammas Ali";
 cout<<"Roll no"<<"23-SET-011";
 int a,b;
 cout<<a+b;
+cout<<a-b;
